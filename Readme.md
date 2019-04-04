@@ -3,7 +3,7 @@
 
 * [FileManagerAccessRuleHelper.cs](./CS/WebSite/App_Code/FileManagerAccessRuleHelper.cs) (VB: [FileManagerAccessRuleHelper.vb](./VB/WebSite/App_Code/FileManagerAccessRuleHelper.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to support access based on multiple user roles in ASPxFileManager
 
