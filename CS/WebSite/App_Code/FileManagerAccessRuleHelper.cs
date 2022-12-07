@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using DevExpress.Web.ASPxFileManager;
+using DevExpress.Web;
 
 /// <summary>
 /// Summary description for FileManagerAccessRuleHelper

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxFileManager;
+using DevExpress.Web;
 
 public partial class Default : System.Web.UI.Page {
 protected void ASPxFileManager1_Init(object sender, EventArgs e) {

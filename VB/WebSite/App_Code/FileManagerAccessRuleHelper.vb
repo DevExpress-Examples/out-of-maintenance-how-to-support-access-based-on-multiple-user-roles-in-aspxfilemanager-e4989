@@ -3,7 +3,7 @@ Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Web
-Imports DevExpress.Web.ASPxFileManager
+Imports DevExpress.Web
 
 ''' <summary>
 ''' Summary description for FileManagerAccessRuleHelper
